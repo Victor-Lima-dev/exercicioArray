@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\projetos\aulas1\bin\Debug\net6.0\aulas1.exe
+C:\Users\Vitor\Desktop\projetos\aulas1\bin\Debug\net6.0\aulas1.deps.json
+C:\Users\Vitor\Desktop\projetos\aulas1\bin\Debug\net6.0\aulas1.runtimeconfig.json
+C:\Users\Vitor\Desktop\projetos\aulas1\bin\Debug\net6.0\aulas1.dll
+C:\Users\Vitor\Desktop\projetos\aulas1\bin\Debug\net6.0\aulas1.pdb
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.dll
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\refint\aulas1.dll
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.pdb
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\aulas1.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\projetos\aulas1\obj\Debug\net6.0\ref\aulas1.dll
